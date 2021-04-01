@@ -1,5 +1,5 @@
 {
-  "name": "@gitlab-org/jsfuzz",
+  "name": "jsfizz",
   "version": "1.0.15",
   "description": "Coverage Guided Javascript Fuzzer",
   "main": "build/src/index.js",
