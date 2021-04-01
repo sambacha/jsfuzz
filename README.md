@@ -1,5 +1,7 @@
 # Jsfuzz: coverage-guided fuzz testing for Javascript
 
+> npm install --global jsfizz
+
 Jsfuzz is coverage-guided [fuzzer](https://developer.mozilla.org/en-US/docs/Glossary/Fuzzing) for testing javascript/nodejs packages.
 
 Fuzzing for safe languages like nodejs is a powerful strategy for finding bugs like unhandled exceptions, logic bugs,
